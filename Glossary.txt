@@ -1,0 +1,90 @@
+WORLD BANK INDICATORS:
+
+##Adjusted Net Saving (ANS) as a percentage of Gross National Income
+(GNI).
+Adjusted net saving is derived from the standard national  accounting measure of gross saving by making four adjustments: (i) consumption of fixed capital is deducted to obtain net national saving; (ii) current public expenditure on education is added to account for investment in human capital; (iii) estimates of the depletion of a variety of natural resources are deducted to reflect the decline in asset values associated with extraction and depletion; (iv) deductions are made for damages from carbon dioxide and particulate emissions. The indicator is then computed by
+dividing ANS by GNI.
+
+##Adjusted savings: carbon dioxide damage (% of GNI)
+Definition: Cost of damage due to carbon dioxide emissions from fossil fuel use and the manufacture of cement, estimated to be US$30 per ton of CO2 (the unit damage in 2014 US dollars for CO2 emitted in 2015) times the number of tons of CO2 emitted.
+
+##GNI growth (annual %)
+Definition: GNI (formerly GNP) is the sum of value added by all resident producers plus any product taxes (less subsidies) not included in the valuation of output plus net receipts of primary income (compensation of employees and property income) from abroad.
+
+##Adjusted savings: energy depletion (% of GNI)
+Energy depletion is the ratio of the value of the stock of energy resources to the remaining reserve lifetime. It covers coal, crude oil, and natural gas.
+
+##Adjusted savings: mineral depletion: 
+Adjusted savings: mineral depletion (% of GNI)
+Mineral depletion is the ratio of the value of the stock of mineral resources to the remaining reserve lifetime. It covers tin, gold, lead, zinc, iron, copper, nickel, silver, bauxite, and phosphate.
+
+##Adjusted savings: particulate emissions
+Adjusted savings: particulate emission damage (% of GNI)
+Particulate emissions damage is the damage due to exposure of a country's population to ambient concentrations of particulates measuring less than 2.5 microns in diameter (PM2.5), ambient ozone pollution, and indoor concentrations of PM2.5 in households cooking with solid fuels. Damages are calculated as foregone labor income due to premature death. Estimates of health impacts from the Global Burden of Disease Study 2016. Data for other years have been extrapolated from trends in mortality rates.
+
+##Unemployment, total (% of total labor force) (modeled ILO* estimate)
+Unemployment refers to the share of the labor force that is without work but available for and seeking employment.
+*International Labour Organization
+
+##Total natural resources rents (% of GDP)
+Total natural resources rents are the sum of oil rents, natural gas rents, coal rents (hard and soft), mineral rents, and forest rents.
+
+##INVESTORS: 
+WBG : World Bank Group 
+'KFW': The KfW, formerly KfW Bankengruppe (banking group), is a German state-owned development bank, based in Frankfurt. Its name originally comes from Kreditanstalt für Wiederaufbau ("Credit Institute for Reconstruction")
+
+'OPIC':was the United States government's development finance institution until it merged with the Development Credit Authority (DCA) of the United States Agency for International Development to form the U.S. International Development Finance Corporation (DFC)
+
+'JICA': Japan International Cooperation Agency is a governmental agency that coordinates Official Development Assistance (ODA) for the government of Japan. It is chartered with assisting economic and social growth in developing countries, and the promotion of international cooperation.
+
+'AsDB': Asian Development Bank (ADB), a multilateral development finance institution, was founded in 1966 by 31 member governments to promote the social and economic progress of the Asian and Pacific region
+
+'UNDP': UNDP works to eradicate poverty and reduce inequalities through the sustainable development of nations, in more than 170 countries and territories.
+
+'FMO': FMO is a Dutch development bank structured as a bilateral private-sector international financial institution based in the Hague, the Netherlands.
+
+'CAF': Latin American Development Bank,
+
+'IADB': The Inter-American Development Bank is the main source of multilateral financing in Latin America. It provides solutions to development challenges and support in the key areas of the region.
+
+'CDB': The Caribbean Development Bank is a financial institution that helps Caribbean nations finance social and economic programs in its member countries.
+
+'CEXIM': Export–Import Bank of China is one of three institutional banks in China chartered to implement the state policies in industry, foreign trade, economy, and foreign aid to other developing countries, and provide policy financial support so as to promote the export of Chinese products and services.
+
+'CIF': China International Fund, a Chinese company that funds large-scale national projects in developing countries
+
+'EIB': European Investment Bank, the European Union's financing institution
+
+'IsDB':  Islamic Development Bank is a multilateral development finance institution that is focused on islamic finance located in Jeddah, Saudi Arabia.
+
+'AFD': Agence française de développement, a French international development agency
+
+'BNDES': National Bank for Economic and Social Development (Portuguese: Banco Nacional de Desenvolvimento Econômico e Social, abbreviated) is a development bank structured as a federal public company associated with the Ministry of Development, Industry, and Trade of Brazil.
+
+'NIB': The Nordic Investment Bank (NIB) is an international financial institution founded in the mid-1970s by the five Nordic countries: Denmark (incl. Faroe Islands, Greenland), Finland (incl. Åland Islands), Iceland, Norway and Sweden. In 2005, Estonia, Latvia and Lithuania became members of the Bank. NIB’s headquarters are located in Helsinki, Finland.
+
+'AfDB': African Development Bank Group (AfDB) or Banque Africaine de Développement (BAD) is a multilateral development finance institution. The AfDB was founded in 1964 and comprises three entities: The African Development Bank, the African Development Fund and the Nigeria Trust Fund.
+
+'JBIC': Japan Bank for International Cooperation is a Japanese public financial institution and export credit agency that was created on October 1, 1999, through the merger of the Japan Export-Import Bank (JEXIM) and the Overseas Economic Cooperation Fund (OECF)
+
+'CABEI': Central American Integration System (Spanish: Sistema de la Integración Centroamericana, or SICA) has been the economic and political organization of Central American states since February 1, 1993.
+
+'EBRD': European Bank for Reconstruction and Development is an international financial institution founded in 1991.
+
+'KEXIM': Export–Import Bank of Korea, also commonly known as the Korea Eximbank (KEXIM), is the official export credit agency of South Korea.
+
+'GIG': UK Green Investment Bank plc (GIB) was launched by the UK Government. It was the first institution of its type in the world – a publicly funded bank designed to mobilise private finance into the green energy sector.
+
+## ASSET CLASS: 'Grant', 'Loan', 'Other Official Flows (non Export Credit)','Equity Investment', 'Credit line','Insurance', 'Guarantee'
+
+Asset Class: "grouping of investments that exhibit similar characteristics and are subject to the same laws and regulations. Asset classes are made up of instruments which often behave similarly to one another in the marketplace. Historically, the three main asset classes have been equities (stocks), fixed income (bonds), and cash equivalent or money market instruments.1﻿ Currently, most investment professionals include real estate, commodities, futures, other financial derivatives, and even cryptocurrencies to the asset class mix. Investment assets include both tangible and intangible instruments which investors buy and sell for the purposes of generating additional income on either a short- or a long-term basis."
+-Investopedia.com
+
+Non Export Credit: Export credits supported by official Export Credit Agencies (ECAs) in developing countries often finance large-scale projects in developing countries. Even though export credits cannot be assimilated to development finance given their commercially motivated and demand-driven nature, they still play an important role – by mitigating risks – in providing access to capital and enabling projects in key segments of the economy (e.g. industry, infrastructure)
+- Investopedia.com
+
+Credit Line: Preset borrowing limit that can be used at any time. The borrower can take money out as needed until the limit is reached, and as money is repaid, it can be borrowed again in the case of an open line of credit. - Investopedia.com
+
+‘Guarantee’ : cf guaranteed investment contract (GIC) is an insurance company provision that guarantees a rate of return in exchange for keeping a deposit for a certain period. - Investopedia.com
+
+‘Insurance’: Typically offered in the UK and Australia, an insurance bond is a whole or term life insurance policy in which remitted money is invested in funds. - Investopedia.com
